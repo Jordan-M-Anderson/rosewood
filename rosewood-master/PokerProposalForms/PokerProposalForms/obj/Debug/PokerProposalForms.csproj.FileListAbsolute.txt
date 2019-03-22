@@ -1,0 +1,12 @@
+C:\Users\Natalie\source\repos\PokerProposalForms\PokerProposalForms\bin\Debug\PokerProposalForms.exe.config
+C:\Users\Natalie\source\repos\PokerProposalForms\PokerProposalForms\bin\Debug\PokerProposalForms.exe
+C:\Users\Natalie\source\repos\PokerProposalForms\PokerProposalForms\bin\Debug\PokerProposalForms.pdb
+C:\Users\Natalie\source\repos\PokerProposalForms\PokerProposalForms\obj\Debug\PokerProposalForms.csprojAssemblyReference.cache
+C:\Users\Natalie\source\repos\PokerProposalForms\PokerProposalForms\obj\Debug\PokerProposalForms.Form1.resources
+C:\Users\Natalie\source\repos\PokerProposalForms\PokerProposalForms\obj\Debug\PokerProposalForms.Form2.resources
+C:\Users\Natalie\source\repos\PokerProposalForms\PokerProposalForms\obj\Debug\PokerProposalForms.Properties.Resources.resources
+C:\Users\Natalie\source\repos\PokerProposalForms\PokerProposalForms\obj\Debug\PokerProposalForms.csproj.GenerateResource.cache
+C:\Users\Natalie\source\repos\PokerProposalForms\PokerProposalForms\obj\Debug\PokerProposalForms.csproj.CoreCompileInputs.cache
+C:\Users\Natalie\source\repos\PokerProposalForms\PokerProposalForms\obj\Debug\PokerProposalForms.exe
+C:\Users\Natalie\source\repos\PokerProposalForms\PokerProposalForms\obj\Debug\PokerProposalForms.pdb
+C:\Users\Natalie\source\repos\PokerProposalForms\PokerProposalForms\obj\Debug\PokerProposalForms.Form3.resources
